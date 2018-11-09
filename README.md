@@ -1,4 +1,4 @@
-# some-article
+# article
 [机器之心] ----知乎
 ###### https://www.zhihu.com/org/ji-qi-zhi-xin-65/activities
 [ 翻譯 ] 2018.11.06- 背後原理大解析：如何運用強化學習的演算法，自動化圖像資料擴增？
@@ -6,13 +6,13 @@
 《小王爱迁移》系列文章
 ##### https://zhuanlan.zhihu.com/p/27450288
 
-# some-papers
+# papers
 AutoAugment: Learning Augmentation Policies from Data
 ##### https://arxiv.org/abs/1805.09501
 How transferable are features in deep neuralnetworks?  
 ##### http://yosinski.com/media/papers/Yosinski__2014__NIPS__How_Transferable_with_Supp.pdf
 
-# some database
+# database
 
 
 # Books
