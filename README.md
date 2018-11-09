@@ -7,3 +7,11 @@ AutoAugment: Learning Augmentation Policies from Data
 ##### https://zhuanlan.zhihu.com/p/27450288
 How transferable are features in deep neuralnetworks?  
 ##### http://yosinski.com/media/papers/Yosinski__2014__NIPS__How_Transferable_with_Supp.pdf
+
+
+# Books 
+Computer Vision:Algorithms and Applications      Richard Szeliski
+##### http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
+
+Arduino計算機視覺編程
+##### https://www.books.com.tw/products/CN11392391
