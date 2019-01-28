@@ -22,3 +22,6 @@ Computer Vision:Algorithms and Applications      Richard Szeliski
 ### Not Free
 Arduino計算機視覺編程
 ##### https://www.books.com.tw/products/CN11392391
+
+# 一些基于GAN的有趣的AI案例
+https://zhuanlan.zhihu.com/p/54135733
