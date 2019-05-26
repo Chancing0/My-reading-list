@@ -15,7 +15,7 @@ How transferable are features in deep neuralnetworks?
 # database
 IJB-200GB 在學校谷歌碟裏
 
-#free lesson
+# free lesson
 李宏毅
 ##### https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/videos
 PPT@HW http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html
