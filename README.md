@@ -13,7 +13,12 @@ How transferable are features in deep neuralnetworks?
 ##### http://yosinski.com/media/papers/Yosinski__2014__NIPS__How_Transferable_with_Supp.pdf
 
 # database
+IJB-200GB 在學校谷歌碟裏
 
+#free lesson
+李宏毅
+##### https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/videos
+PPT@HW http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html
 
 # Books
 ### Free 
